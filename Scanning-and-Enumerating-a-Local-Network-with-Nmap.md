@@ -20,6 +20,10 @@ Nmap is pre-installed on Kali Linux. You can verify the installation or update i
 ```sh
 sudo apt-get update && sudo apt-get install nmap
 ```
+To Check it is already installed or not. Use the below command:
+```sh
+nmap -h
+```
 
 ## Tasks
 
