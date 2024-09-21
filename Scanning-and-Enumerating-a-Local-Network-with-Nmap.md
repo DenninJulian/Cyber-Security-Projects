@@ -1,4 +1,4 @@
-# 1. Scanning and Enumerating a Local Network with Nmap on Kali Linux
+# Scanning and Enumerating a Local Network with Nmap on Kali Linux
 
 ## Introduction
 In this project, I have learned how to use Nmap, a powerful network scanning tool, to discover devices and services running on a local network. Network scanning and enumeration are critical skills for ethical hackers, as they help in identifying potential targets and vulnerabilities within a network. I am able to perform basic network scans, identify open ports, and gather information about the devices on your network using Kali Linux.
